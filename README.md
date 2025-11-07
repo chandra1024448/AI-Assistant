@@ -1,4 +1,4 @@
-###AI Assistant 💡###
+**AI Assistant 💡**
 
 A fine-tuned Phi-3 AI Assistant built by Chandrakala, deployed using Hugging Face and Streamlit, capable of human-like, emotionally warm responses.
 
@@ -28,7 +28,7 @@ Docker (optional, for containerized deployment)
 
 ***1. Clone the repository***
 
-git clone (https://github.com/chandra1024448/AI-Assistant/tree/main)
+git clone https://github.com/chandra1024448/AI-Assistant.git
 
 cd AI_Assistant
 
@@ -65,7 +65,7 @@ The assistant responds accurately, concisely, and warmly.
 **Model**
 
 Fine-tuned Phi-3 model on a custom dataset.
-Hosted on Hugging Face Hub: Model Link: https://huggingface.co/spaces/chandra1024/AI_Assistant
+Hosted on Hugging Face Space: [AI Assistant Demo](https://huggingface.co/spaces/chandra1024/AI_Assistant)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
