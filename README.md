@@ -57,7 +57,8 @@ The assistant responds accurately, concisely, and warmly.
 
 **Project Demo**
 
-(replace with your own screenshot or GIF)
+<img width="1405" height="617" alt="image" src="https://github.com/user-attachments/assets/0c5e799e-136a-460f-8aca-49846f8de1a0" />
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
