@@ -28,7 +28,7 @@ Docker (optional, for containerized deployment)
 
 ***1. Clone the repository***
 
-git clone https://github.com/chandra1024448/AI_Assistant.git
+git clone (https://github.com/chandra1024448/AI-Assistant/tree/main)
 
 cd AI_Assistant
 
