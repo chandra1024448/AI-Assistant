@@ -1,4 +1,4 @@
-**AI Assistant 💡**
+##AI Assistant 💡##
 
 A fine-tuned Phi-3 AI Assistant built by Chandrakala, deployed using Hugging Face and Streamlit, capable of human-like, emotionally warm responses.
 
